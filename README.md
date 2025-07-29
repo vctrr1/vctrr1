@@ -5,7 +5,6 @@
 Sou estudante de Ciência da Computação e apaixonado por aprender novas tecnologias.  
 Atualmente focado em **desenvolvimento web** e **projetos práticos** que me desafiem.
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
